@@ -16,7 +16,7 @@ rows = QHBoxLayout()
 main_l.setWindowTitle('Погода')
 main_l.resize(600, 300)
 palette = QPalette()
-palette.setBrush(QPalette.Background, QBrush(QPixmap(".\Coupon_2021_03_02_12627-02.png")))
+palette.setBrush(QPalette.Background, QBrush(QPixmap(".\Your photo")))
 main_l.setPalette(palette)
 
 row1 = QHBoxLayout()
